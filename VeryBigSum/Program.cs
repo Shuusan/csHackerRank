@@ -22,9 +22,22 @@ class Result
      * The function accepts LONG_INTEGER_ARRAY ar as parameter.
      */
 
+    /// <summary>
+    /// Solution, no minus
+    /// </summary>
+    /// <param name="ar"></param>
+    /// <returns></returns>
+    /// new Joshua Alviando 2022/08/05
     public static long aVeryBigSum(List<long> ar)
     {
+        long longBigInteger = 0;
 
+        foreach(long v in ar)
+        {
+            longBigInteger += v;
+        }
+
+        return longBigInteger;
     }
 
 }
