@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTriplets", "CompareT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryBigSum", "VeryBigSum\VeryBigSum.csproj", "{C9631B1F-1C62-46AC-911B-7D7BF692D523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormingMagicSquare", "FormingMagicSquare\FormingMagicSquare.csproj", "{3F5DF977-A7F9-41A8-9373-EB8B2C4B97E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C9631B1F-1C62-46AC-911B-7D7BF692D523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9631B1F-1C62-46AC-911B-7D7BF692D523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9631B1F-1C62-46AC-911B-7D7BF692D523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5DF977-A7F9-41A8-9373-EB8B2C4B97E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5DF977-A7F9-41A8-9373-EB8B2C4B97E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5DF977-A7F9-41A8-9373-EB8B2C4B97E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5DF977-A7F9-41A8-9373-EB8B2C4B97E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
